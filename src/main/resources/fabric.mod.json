@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/switcher",
-    "sources": "https://github.com/Krxwallo/Switcher"
+    "sources": "https://github.com/Krxwallo/Switcher",
+    "issues": "https://github.com/Krxwallo/Switcher/issues"
   },
 
   "license": "LGPL-3",
