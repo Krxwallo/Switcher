@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Switcher",
-  "description": "",
+  "description": "Removes the permission check when opening the gamemode switcher.",
   "authors": [
     "Krxwallo"
   ],
