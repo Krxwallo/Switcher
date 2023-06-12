@@ -18,18 +18,14 @@
   "icon": "assets/switcher/icon.png",
 
   "environment": "client",
-  "entrypoints": {
-    "client": [
-      "me.krxwallo.switcher.Manager"
-    ]
-  },
+  "entrypoints": {},
   "mixins": [
     "switcher.mixins.json"
   ],
 
   "depends": {
     "fabricloader": ">=0.14.9",
-    "minecraft": "~1.19",
+    "minecraft": "~1.20",
     "java": ">=17"
   }
 }
